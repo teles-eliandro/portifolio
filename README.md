@@ -11,4 +11,7 @@ Responsive Design: The portfolio is fully responsive, ensuring a great user expe
 
 Feel free to explore the project, provide feedback, or use it as inspiration for your own work!
 
-Developed by Eliandro Teles
+https://portifolio-mu-seven-33.vercel.app/index.html
+
+Developed by Eliandro Teles 
+
